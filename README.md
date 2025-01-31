@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @William-James-Widener-III
-- 👀 I’m interested in Intellectual property law and its applications in data science.
+- 👀 I’m interested in Intellectual property law and its applications in computer science.
 - 🌱 I’m currently learning how to install Gentoo linux, and some math.
 - 📫 How to reach me: william.widener3@gmail.com
 
